@@ -23,3 +23,4 @@ Reason why
 - [ ] Task 1
 - [ ] Task 2
 - [ ] Task 3
+:smile: :+1: :sparkles:
