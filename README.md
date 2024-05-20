@@ -16,7 +16,7 @@
 
 **Inspiration for the Project** : [host ALL your AI locally by NetworkChuck](https://www.youtube.com/watch?v=Wjrdr0NU4Sk&t=648s) 
 <a href="https://www.youtube.com/watch?v=WxYC9-hBM_g">
-    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Watch on YouTube" />
+    <img src="[https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg](https://i.ytimg.com/an_webp/Wjrdr0NU4Sk/mqdefault_6s.webp?du=3000&sqp=CLSWrLIG&rs=AOn4CLAVk4K88fQI1SxxYun-xrT-V7IsDQ)" alt="Watch on YouTube" />
 </a>
 
 Reason why
