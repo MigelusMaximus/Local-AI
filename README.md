@@ -19,7 +19,7 @@
 
 
 
-<center>
+<div align="center">
   
 **Inspiration for the Project** : [host ALL your AI locally by NetworkChuck](https://www.youtube.com/watch?v=Wjrdr0NU4Sk&t=648s) 
     
@@ -27,7 +27,7 @@
     <img src="https://i.ytimg.com/an_webp/Wjrdr0NU4Sk/mqdefault_6s.webp?du=3000&sqp=CLSWrLIG&rs=AOn4CLAVk4K88fQI1SxxYun-xrT-V7IsDQ" alt="Watch on YouTube" />
 </a>
   
-</center>
+</div>
 
 
 
