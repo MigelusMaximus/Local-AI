@@ -39,10 +39,9 @@ Reason why
 
 Here is a sentence with a footnote.[^1]
 
-
+---
 <details>
   <summary>Click to expand!</summary>
-  ---
   ## Hidden Heading
   Here is some hidden content.
 </details>
