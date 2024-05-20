@@ -65,7 +65,8 @@ Use strikethrough to show completed tasks or corrections.
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
-<span style="color:red;">This is a red text.</span>
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 
 
