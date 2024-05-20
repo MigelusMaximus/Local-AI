@@ -1,15 +1,21 @@
-<h1 align="center">Local AI</h1>
+<h1 align="center">Local AI Project</h1>
+
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0-blue.svg" alt="Version">
   <img src="https://img.shields.io/badge/license-none-green.svg" alt="License">
 </p>
 
+<br>
+<br>
+<br>
+<br>
+
 <div align="center">
   
 ## Table of Contents
 
-<a href="#reason-why">Reason Why</a><br>
-<a href="#features">Features</a><br>
+<a href="#reasons-why">❓ Reasons Why ❓</a><br>
+<a href="#technology-used">🤖 Technology Used 🤖</a><br>
 <a href="#installation">Installation</a><br>
 <a href="#usage">Usage</a><br>
 <a href="#contributing">Contributing</a><br>
@@ -42,24 +48,75 @@
 
 ---
 
-## Reason Why
+<br>
+<br>
+<br>
+<br>
+
+<div align="center">
+   
+  # Reasons Why
+</div>
+<table>
+<tr>
+<td>
+  
 - I wanted to have my own AI assistant that would not share all the date
 - I wanted a model that I can tinker to my wanting
 - Comercial models can't always work with everything you can locally
 - My aim is to try and make it work with my data that I have available
+    
+</td>
+<td>
+  
+
+![Michael_Scott_Laughing](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRoczM5eWJrazdnNjU5dWdwdzh1bDc5eGVzMTE3ZTVvazdjd3Q5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MW05AHUP7JXgc/giphy.gif)
+    
+</td>
+</tr>
+</table>
 
 
+<br>
+<br>
+<br>
+<br>
 
+
+<div align="center">
+
+  # Technology Used
+
+</div>
+<table>
+<tr>
+<td>
+  
+- Linux Distro
+  - I used **W**indows **S**ubsystem for **Linux** for this project. Distro I used was Ubuntu.
+- [Ollama](https://ollama.com/)
+- Docker
+  - I still have so much to learn about docker, because I don't really understand it even though I use it in 3 of my projects
+- Models I tried
+  - llama3 
+</td>
+<td>
+  
+![Jim_Sleeping](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODE3YXV6Y2d1Nm41ZTlseGN5OW5mbjhmbXl1ZHh4ZjQ3ZDZqeXhmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dV8K4Rwzeuvn3JyJO9/giphy.gif)
+</td>
+</tr>
+</table>
+
+<details>
+  <summary>More about the technologies</summary>
+</details>
+
+<br>
+<br>
+<br>
+<br>
 
 >Blockquote
-
-
-| Header 1 | Header 2 | Header 3 |
-| -------- | -------- | -------- |
-| Row 1    | Data     | More data|
-| Row 2    | Data     | More data|
-
-
 - [ ] Task 1
 - [ ] Task 2
 - [ ] Task 3
@@ -88,10 +145,8 @@ function greet(name) {
 ### 11. Strikethrough
 Use strikethrough to show completed tasks or corrections.
 
-```markdown
 ~~This text is crossed out~~
 
-```
 
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
@@ -125,7 +180,6 @@ $$
 ![Dependencies](https://img.shields.io/librariesio/github/username/repo)
 
 ![Demo](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)
-
 
 
 
