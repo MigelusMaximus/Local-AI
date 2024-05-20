@@ -140,6 +140,15 @@ $$
 </table>
 
 
+<div style="display: flex;">
+  <div style="flex: 1; padding: 10px;">
+    <img src="https://via.placeholder.com/150" alt="Image 1" width="150">
+  </div>
+  <div style="flex: 1; padding: 10px;">
+    <img src="https://via.placeholder.com/150" alt="Image 2" width="150">
+  </div>
+</div>
+
 
 [^1]: This is the footnote.
 
