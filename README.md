@@ -105,6 +105,9 @@ $$
 </p>
 
 
+
+[^1]: This is the footnote.
+
 <hr>
 <p align="center">
   Made with ❤️ by <a href="https://github.com/MigelusMaximus">MigelusMaximus</a>
@@ -112,4 +115,3 @@ $$
 
 
 
-[^1]: This is the footnote.
