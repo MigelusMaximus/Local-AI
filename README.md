@@ -4,36 +4,52 @@
   <img src="https://img.shields.io/badge/license-none-green.svg" alt="License">
 </p>
 
+<div align="center">
+  
 ## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Hidden-Heading](#hidden-heading)
 
+<a href="#reason-why">Reason Why</a><br>
+<a href="#features">Features</a><br>
+<a href="#installation">Installation</a><br>
+<a href="#usage">Usage</a><br>
+<a href="#contributing">Contributing</a><br>
+<a href="#hidden-heading">Hidden-Heading</a><br>
+
+</div>
+
+---
 
 <div align="center">
   
-**Inspiration for the Project** : [host ALL your AI locally by NetworkChuck](https://www.youtube.com/watch?v=Wjrdr0NU4Sk&t=648s) 
+**Inspiration for the Project** : [host ALL your AI locally by NetworkChuck](https://www.youtube.com/watch?v=Wjrdr0NU4Sk&t=648s)
 
-<div style="display: flex; justify-content: center; align-items: center; margin-top: 10px;">
-  <a href="https://www.youtube.com/" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="64" height="44" alt="Youtube Logo" style="margin-right: 20px;">
-  </a>
-
-  <a href="https://www.youtube.com/watch?v=WxYC9-hBM_g" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://i.ytimg.com/an_webp/Wjrdr0NU4Sk/mqdefault_6s.webp?du=3000&sqp=CLSWrLIG&rs=AOn4CLAVk4K88fQI1SxxYun-xrT-V7IsDQ" alt="Watch on YouTube" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td style="text-align: center; vertical-align: middle;">
+      <a href="https://www.youtube.com/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="64" height="44" alt="Youtube Logo">
+      </a>
+    </td>
+    <td style="text-align: center;">
+      <a href="https://www.youtube.com/watch?v=WxYC9-hBM_g">
+        <img src="https://i.ytimg.com/an_webp/Wjrdr0NU4Sk/mqdefault_6s.webp?du=3000&sqp=CLSWrLIG&rs=AOn4CLAVk4K88fQI1SxxYun-xrT-V7IsDQ" alt="Watch on YouTube" style="max-height: 150px;">
+      </a>
+    </td>
+  </tr>
+</table>
   
 </div>
 
+---
 
-Reason why
--
--
--
+## Reason Why
+- I wanted to have my own AI assistant that would not share all the date
+- I wanted a model that I can tinker to my wanting
+- Comercial models can't always work with everything you can locally
+- My aim is to try and make it work with my data that I have available
+
+
+
 
 >Blockquote
 
@@ -55,7 +71,9 @@ Here is a sentence with a footnote.[^1]
 ---
 <details>
   <summary>Click to expand!</summary>
+  
   ## Hidden Heading
+  
   Here is some hidden content.
 </details>
 
