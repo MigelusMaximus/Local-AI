@@ -76,10 +76,8 @@ graph TD;
     C-->D;
 ```
 
-```markdown
 $$
 c = \pm\sqrt{a^2 + b^2}
 $$
-```
 
 [^1]: This is the footnote.
