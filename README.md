@@ -107,7 +107,7 @@ $$
 
 <hr>
 <p align="center">
-  Made with ❤️ by [MigelusMaximus](https://github.com/MigelusMaximus)
+  Made with ❤️ by [![MigelusMaximus](https://github.com/MigelusMaximus)]
 </p>
 
 
