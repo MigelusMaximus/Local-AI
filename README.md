@@ -94,5 +94,8 @@ $$
   </div>
 </div>
 
+![Dependencies](https://img.shields.io/librariesio/github/username/repo)
+
+
 
 [^1]: This is the footnote.
