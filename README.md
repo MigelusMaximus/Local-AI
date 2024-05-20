@@ -76,5 +76,13 @@ graph TD;
     C-->D;
 ```
 
+### 21. KaTeX for Mathematical Expressions
+You can render mathematical expressions using KaTeX.
+
+```markdown
+$$
+c = \pm\sqrt{a^2 + b^2}
+$$
+
 
 [^1]: This is the footnote.
