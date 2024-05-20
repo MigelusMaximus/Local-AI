@@ -7,7 +7,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Hidden-Heading](#hiddenheading)
+- [Hidden-Heading](#hidden-heading)
 
 
 <a href="https://www.youtube.com/">
