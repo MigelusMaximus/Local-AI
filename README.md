@@ -83,7 +83,16 @@ $$
 c = \pm\sqrt{a^2 + b^2}
 $$
 
-![CI](https://github.com/username/repo/actions/workflows/ci.yml/badge.svg)
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; padding: 10px;">
+    <h3>Column 1</h3>
+    <p>Content for the first column.</p>
+  </div>
+  <div style="flex: 1; padding: 10px;">
+    <h3>Column 2</h3>
+    <p>Content for the second column.</p>
+  </div>
+</div>
 
 
 [^1]: This is the footnote.
