@@ -37,4 +37,18 @@ Here is a sentence with a footnote.[^1]
 </details>
 
 
+
+```javascript
+function greet(name) {
+    return `Hello, ${name}!`;
+}
+
+
+### 11. Strikethrough
+Use strikethrough to show completed tasks or corrections.
+
+```markdown
+~~This text is crossed out~~
+
+
 [^1]: This is the footnote.
