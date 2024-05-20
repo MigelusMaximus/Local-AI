@@ -98,5 +98,11 @@ $$
 
 ![Demo](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)
 
+<h1 align="center">Welcome to My Project</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/version-1.0-blue.svg" alt="Version">
+  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
+</p>
+
 
 [^1]: This is the footnote.
