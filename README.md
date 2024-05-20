@@ -13,23 +13,21 @@
 - [Hidden-Heading](#hidden-heading)
 
 
-
-
-
 <div align="center">
   
 **Inspiration for the Project** : [host ALL your AI locally by NetworkChuck](https://www.youtube.com/watch?v=Wjrdr0NU4Sk&t=648s) 
 
-<a href="https://www.youtube.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="64" height="44" alt="Youtube Logo">
-</a>
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 10px;">
+  <a href="https://www.youtube.com/" style="display: flex; align-items: center; justify-content: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="64" height="44" alt="Youtube Logo" style="margin-right: 20px;">
+  </a>
 
-<a href="https://www.youtube.com/watch?v=WxYC9-hBM_g">
+  <a href="https://www.youtube.com/watch?v=WxYC9-hBM_g" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://i.ytimg.com/an_webp/Wjrdr0NU4Sk/mqdefault_6s.webp?du=3000&sqp=CLSWrLIG&rs=AOn4CLAVk4K88fQI1SxxYun-xrT-V7IsDQ" alt="Watch on YouTube" />
-</a>
+  </a>
+</div>
   
 </div>
-
 
 
 Reason why
