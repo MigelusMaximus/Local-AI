@@ -83,6 +83,6 @@ You can render mathematical expressions using KaTeX.
 $$
 c = \pm\sqrt{a^2 + b^2}
 $$
-
+```
 
 [^1]: This is the footnote.
