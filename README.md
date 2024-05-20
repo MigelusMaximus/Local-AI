@@ -96,6 +96,7 @@ $$
 
 ![Dependencies](https://img.shields.io/librariesio/github/username/repo)
 
+![Demo](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)
 
 
 [^1]: This is the footnote.
