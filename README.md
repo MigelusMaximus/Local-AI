@@ -108,6 +108,24 @@ $$
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/MigelusMaximus)
 
 
+<table>
+  <thead>
+    <tr>
+      <th>Feature</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Feature 1</td>
+      <td>Description of feature 1</td>
+    </tr>
+    <tr>
+      <td>Feature 2</td>
+      <td>Description of feature 2</td>
+    </tr>
+  </tbody>
+</table>
 
 
 [^1]: This is the footnote.
