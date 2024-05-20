@@ -107,8 +107,9 @@ $$
 
 <hr>
 <p align="center">
-  Made with ❤️ by [![MigelusMaximus](https://github.com/MigelusMaximus)]
+  Made with ❤️ by <a href="https://github.com/MigelusMaximus">MigelusMaximus</a>
 </p>
+
 
 
 [^1]: This is the footnote.
