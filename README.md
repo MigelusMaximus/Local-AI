@@ -68,6 +68,13 @@ Use strikethrough to show completed tasks or corrections.
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 
 
 [^1]: This is the footnote.
