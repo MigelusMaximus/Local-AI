@@ -52,4 +52,7 @@ Use strikethrough to show completed tasks or corrections.
 
 ```
 
+
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
 [^1]: This is the footnote.
