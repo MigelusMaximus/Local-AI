@@ -104,6 +104,10 @@ $$
   <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
 </p>
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/MigelusMaximus)
+
+
 
 
 [^1]: This is the footnote.
