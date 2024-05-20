@@ -83,4 +83,7 @@ $$
 c = \pm\sqrt{a^2 + b^2}
 $$
 
+![CI](https://github.com/username/repo/actions/workflows/ci.yml/badge.svg)
+
+
 [^1]: This is the footnote.
