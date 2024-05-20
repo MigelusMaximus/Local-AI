@@ -15,7 +15,9 @@
 </a>
 
 **Inspiration for the Project** : [host ALL your AI locally by NetworkChuck](https://www.youtube.com/watch?v=Wjrdr0NU4Sk&t=648s) 
-
+<a href="https://www.youtube.com/watch?v=WxYC9-hBM_g">
+    <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="Watch on YouTube" />
+</a>
 
 Reason why
 -
