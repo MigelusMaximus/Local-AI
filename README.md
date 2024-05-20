@@ -128,6 +128,19 @@ $$
 </table>
 
 
+<table>
+  <tr>
+    <td>
+      <img src="https://via.placeholder.com/150" alt="Image 1" width="150">
+    </td>
+    <td>
+      <img src="https://via.placeholder.com/150" alt="Image 2" width="150">
+    </td>
+  </tr>
+</table>
+
+
+
 [^1]: This is the footnote.
 
 <hr>
