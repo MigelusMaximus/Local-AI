@@ -25,3 +25,7 @@ Reason why
 - [ ] Task 3
 
 :smile: :+1: :sparkles:
+
+Here is a sentence with a footnote.[^1]
+
+[^1]: This is the footnote.
