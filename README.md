@@ -1,4 +1,15 @@
 # Local-AI
+
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+
 <a href="https://www.youtube.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="64" height="44" alt="Youtube Logo">
 </a>
