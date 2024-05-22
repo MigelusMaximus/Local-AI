@@ -116,10 +116,15 @@
 <br>
 <br>
 
->Blockquote
-- [ ] Task 1
-- [ ] Task 2
-- [ ] Task 3
+
+# My Checklist
+- [ ] Create WSL Ubuntu
+- [ ] Install Ollama on WSL
+- [ ] Download a model for Ollama - llama3
+- [ ] Install Web UI for the Ollama
+- [ ] Run llama3 and try it out
+- [ ] Running local AI on all my other machines
+- [ ] Use API for Ollama
 
 :smile: :+1: :sparkles:
 
