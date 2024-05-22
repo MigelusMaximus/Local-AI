@@ -61,7 +61,7 @@
 <tr>
 <td>
   
-- I wanted to have my own AI assistant that would not share all the date
+- I wanted to have my own AI assistant that would not share all the data
 - I wanted a model that I can tinker to my wanting
 - Comercial models can't always work with everything you can locally
 - My aim is to try and make it work with my data that I have available
