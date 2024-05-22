@@ -27,7 +27,7 @@
 
 <div align="center">
   
-**Inspiration for the Project** : [host ALL your AI locally by NetworkChuck](https://www.youtube.com/watch?v=Wjrdr0NU4Sk&t=649s)
+**Inspiration for the Project** : [host ALL your AI locally by NetworkChuck](https://youtu.be/Wjrdr0NU4Sk?si=9RFvvzjuwZw_SEPu)
 
 <table>
   <tr>
@@ -37,8 +37,8 @@
       </a>
     </td>
     <td style="text-align: center;">
-      <a href="https://www.youtube.com/watch?v=WxYC9-hBM_g">
-        <img src="https://i.ytimg.com/an_webp/Wjrdr0NU4Sk/mqdefault_6s.webp?du=3000&sqp=CLSWrLIG&rs=AOn4CLAVk4K88fQI1SxxYun-xrT-V7IsDQ" alt="Watch on YouTube" style="max-height: 150px;">
+      <a href="https://youtu.be/Wjrdr0NU4Sk?si=9RFvvzjuwZw_SEPu">
+        <img src="https://i.ytimg.com/vi/Wjrdr0NU4Sk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5qGQT6pp0uflcTeXppsQx3VO5QA" alt="Watch on YouTube" style="max-height: 150px;">
       </a>
     </td>
   </tr>
