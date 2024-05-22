@@ -118,12 +118,12 @@
 
 
 # My Checklist
-- [ ] Create WSL Ubuntu
-- [ ] Install Ollama on WSL
-- [ ] Download a model for Ollama - llama3
-- [ ] Install Web UI for the Ollama
-- [ ] Run llama3 and try it out
-- [ ] Running local AI on all my other machines
+- [x] Create WSL Ubuntu
+- [x] Install Ollama on WSL
+- [x] Download a model for Ollama - llama3
+- [x] Install Web UI for the Ollama
+- [x] Run llama3 and try it out
+- [x] Running local AI on all my other machines
 - [ ] Use API for Ollama
 
 :smile: :+1: :sparkles:
