@@ -125,6 +125,7 @@
 - [x] Run llama3 and try it out
 - [x] Running local AI on all my other machines
 - [ ] Use API for Ollama
+- [ ] Try GPT4ALL 
 
 :smile: :+1: :sparkles:
 
