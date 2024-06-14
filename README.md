@@ -27,24 +27,33 @@
 
 <div align="center">
   
-**Inspiration for the Project** : [host ALL your AI locally by NetworkChuck](https://youtu.be/Wjrdr0NU4Sk?si=9RFvvzjuwZw_SEPu)
+**Inspiration for the Project** : 
+
 
 <table>
   <tr>
-    <td style="text-align: center; vertical-align: middle;">
-      <a href="https://www.youtube.com/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" width="64" height="44" alt="Youtube Logo">
+    <td style="text-align: center;">
+      <a href="https://youtu.be/Wjrdr0NU4Sk?si=9RFvvzjuwZw_SEPu">
+        Host ALL your AI locally by NetworkChuck
+        <img src="https://i.ytimg.com/vi/Wjrdr0NU4Sk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5qGQT6pp0uflcTeXppsQx3VO5QA" alt="Watch on YouTube" style="max-height: 150px;">
       </a>
     </td>
     <td style="text-align: center;">
-      <a href="https://youtu.be/Wjrdr0NU4Sk?si=9RFvvzjuwZw_SEPu">
-        <img src="https://i.ytimg.com/vi/Wjrdr0NU4Sk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5qGQT6pp0uflcTeXppsQx3VO5QA" alt="Watch on YouTube" style="max-height: 150px;">
+      <a href="https://www.youtube.com/watch?v=WxYC9-hBM_g&t=137s">
+        Run your own AI (but private)
+        <img src="https://i.ytimg.com/vi/WxYC9-hBM_g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-vT3mA3H19oLRsRLSFKyvb6bwDQ" alt="Watch on YouTube" style="max-height: 150px;">
       </a>
     </td>
   </tr>
 </table>
   
 </div>
+
+  
+
+
+
+
 
 ---
 
